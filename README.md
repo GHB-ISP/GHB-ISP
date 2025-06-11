@@ -6,7 +6,8 @@
 
 ## 🛠️ 技术栈
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GO](https://img.shields.io/badge/-GO-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -37,5 +38,5 @@
 
 ## ✨ 有趣的事
 
-- 我养了一只猫，名字叫「代码」🐱
+- 我养了一只狗，名字叫「代码」🐱
 - 喜欢喝咖啡，尤其是边写代码边喝 ☕

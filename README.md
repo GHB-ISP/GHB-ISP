@@ -33,8 +33,6 @@
 ## 📫 联系我
 
 - 邮箱: [ghb2606408219@gmail.com](mailto:ghb2606408219@gmail.com)
-- 知乎: [GHB-ISP](https://www.zhihu.com/people/你的知乎ID)
-- B站: [GHB-ISP](https://space.bilibili.com/你的B站ID)
 
 ## ✨ 有趣的事
 
